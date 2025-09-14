@@ -235,7 +235,6 @@ def clean_text(self, text: str) -> str:
 - Resume/Template content
 
 **Annotation Accuracy**:
-- Skill tags: 90%+ (keyword matching)
 - Experience Level: Pattern-based
 - Content Type: Multi-source validation
 
