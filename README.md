@@ -27,10 +27,9 @@ This project demonstrates **real execution** of a production-ready data engineer
 ```
 software-engineering-pipeline/
 ├── scraper/
-│   ├── __init__.py
-│   └── job_scraper.py              # Data collection script
+│   └── job_scraper.py             # Data collection script  
+│               
 ├── processing/
-│   ├── __init__.py
 │   ├── data_cleaner.py             # Data cleaning script
 │   └── data_annotator.py           # Data annotation script
 ├── data/                           # Generated datasets directory
