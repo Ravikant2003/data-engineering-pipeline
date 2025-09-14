@@ -1,6 +1,9 @@
 
 # data-engineering-pipeline for AI Model Training
 
+
+Youtube Video Link for its demonstartion (My Youtube Channel): https://youtu.be/KnMcTJ7cG20
+
 ## 📋 Project Overview
 **Task**: Build a complete data engineering pipeline for recruitment-specific AI models  
 **Domain Selected**: **Software Engineering**  
@@ -25,7 +28,7 @@ This project demonstrates **real execution** of a production-ready data engineer
 
 ### Directory Structure
 ```
-software-engineering-pipeline/
+data-engineering-pipeline/
 ├── scraper/
 │   └── job_scraper.py             # Data collection script  
 │               
